@@ -6,6 +6,8 @@ void main()
   do
   {
     printf("What is your Name? ");
+    printf("My name is Paphop ");
+    printf("Paphop is user B ");
     scanf("%s", Name);
     do
     {
